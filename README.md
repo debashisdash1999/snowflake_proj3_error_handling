@@ -1,4 +1,4 @@
-# snflk_mini_proj3_error_handling
+# snowflake_proj3_error_handling
 
 TASK 1:- Loading Data with Errors from S3 into Snowflake
 Use the demo Warehouse: Ensure you are using the demo warehouse for this assignment.
